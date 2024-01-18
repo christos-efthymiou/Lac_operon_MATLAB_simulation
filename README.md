@@ -1,0 +1,2 @@
+# Lac_operon_MATLAB_simulation
+ The purpose of this project was to utilize MATLAB to study the nature of the interaction between the Lac Repressor (lacI), the operon (gop), and allolactose (alac). By simulating the lac operon in Matlab, the operon’s behavior can be studied under different conditions to gain a deeper understanding of how it functions. This information can be used to guide experimental work and improve understanding of fundamental biological processes.
