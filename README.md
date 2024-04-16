@@ -25,7 +25,7 @@ Open MATLAB and navigate to the directory where you have cloned or downloaded th
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
 
 ## Author
-- **Christos Efthymiou** - Initial work and development.
+[Christos Efthymiou](https://www.linkedin.com/in/christos-efthymiou/)
 
 ## Acknowledgments
 - Thanks to SysMIC and University College London for providing the educational platform for this project.
